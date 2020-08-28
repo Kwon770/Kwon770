@@ -1,16 +1,14 @@
-### Hi there 👋
+[![Blog](https://img.shields.io/badge/🗂Blog-My_CodeWiki-red?style=for-the-badge)](https://www.notion.so/sckwon770/My-Code-Wiki-d842bed9b8ac49d793c91c03e9f4418b)
 
-<!--
-**Kwon770/Kwon770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Kwon's github stats](https://github-readme-stats.vercel.app/api?username=Kwon770&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Software Engineering Student who likes coding**<br/>**I'm studying backend and afford to make simple frontend program**
+<br/>
+<br/>
+<br/>
+
+|    Mainly use     | ![Java8 Badge](https://img.shields.io/badge/-Java8-e74c3c?style=flat&logo=Java&logoColor=FFFFFF) ![JavaScripES5 Badge](https://img.shields.io/badge/-JavaScriptES5-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF) ![NodeJs Badge](https://img.shields.io/badge/-NodeJs-339933?style=flat&logo=node.js&logoColor=FFFFFF) ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=GraphQL&logoColor=FFFFFF)                                                                                                                                                                                   |
+| :---------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Currently not use | ![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF) ![C++11 Badge](https://img.shields.io/badge/-C%2B%2B11-00599C?style=flat&logo=C%2B%2B&logoColor=FFFFFF) ![CSharp7.2 Badge](https://img.shields.io/badge/-C%237.2-9b59b6?style=flat&logo=C-Sharp&logoColor=FFFFFF) ![DotNet Badge](https://img.shields.io/badge/-DotNet-5C2D91?style=flat&logo=.Net&logoColor=FFFFFF) ![Python3 Badge](https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=Python&logoColor=FFFFFF) ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-e67e22?style=flat&logo=Kotlin&logoColor=FFFFFF) |
+|    Markup, etc    | ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF) ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF) ![StyledComponent Badge](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=FFFFFF) ![Markdown Badge](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=FFFFFF) ![XML Badge](https://img.shields.io/badge/-XML-000000?style=flat)                                                                                                     |
