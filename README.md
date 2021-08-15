@@ -1,31 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kwon770&fontSize=90&animation=fadeIn&fontAlignY=38&desc=fullstack%20developer&descAlignY=51&descAlign=62)
 
-<h5 align="center"><b>Software Engineering Student who likes coding</b></h5>
-<h5 align="center">I'm studying fullstack, but dig into Spring</h5>
-<h5 align="center"><link href="https://www.notion.so/sckwon770/My-Code-Wiki-d842bed9b8ac49d793c91c03e9f4418b"><img src="https://img.shields.io/badge/🗂Blog-My_CodeWiki-red?style=for-the-badge" /></link></h5>
+<div text-align="center"><b>Software Engineering Student who likes coding</b></div>
+<div text-align="center">I'm studying fullstack, but dig into Spring</div>
+<div text-align="center"><link href="https://www.notion.so/sckwon770/My-Code-Wiki-d842bed9b8ac49d793c91c03e9f4418b"><img src="https://img.shields.io/badge/🗂Blog-My_CodeWiki-red?style=for-the-badge" /></link></div>
 
 <h3 align="center"><b>🤖 Tech Stack 🤖</b></h3>
-<h5 align="center">used mainly</h5>
+<div text-align="center">used mainly</div>
 <p align="center">
 <img src="https://img.shields.io/badge/-C%2B%2B11-00599C?style=flat-square&t&logo=C%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Java8-e74c3c?style=flat-square&t&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-SpringBoot-55efc4?style=flat-square&t&logo=Spring&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-JavaScriptES6-F7DF1E?style=flat-square&t&logo=JavaScript&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-React-74b9ff?style=flat-square&t&logo=React&logoColor=FFFFFF" />
 </p>
 
----
+<hr style="border:1px solid gray"> </hr>
 
-<h5 align="center">not used currently</h5>    
+<div text-align="center">not used currently</div>    
 <p align="center">
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&t&logo=C&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-C%237.2-9b59b6?style=flat-square&t&logo=C-Sharp&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-DotNet-5C2D91?style=flat-square&t&logo=.Net&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&t&logo=Python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-Kotlin-e67e22?style=flat-square&t&logo=Kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Typescript-00599C?style=flat-square&t&logo=Typescript&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&t&logo=GraphQL&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-NodeJs-339933?style=flat-square&t&logo=node.js&logoColor=FFFFFF" />
 </p>
 
----
+<hr style="border:1px solid gray"> </hr>
 
-<h5 align="center">Markup, etc</h5>
+<div text-align="center">Markup, etc</div>
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&t&logo=HTML5&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&t&logo=CSS3&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-Styled--Components-DB7093?style=flat-square&t&logo=styled-components&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&t&logo=Markdown&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-XML-000000?style=flat-square&t" />
 </p>
 
----
+<hr style="border:1px solid gray"> </hr>
 
+<br/>
+<br/>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Kwon770&show_icons=true&theme=radical" />
 </p>
