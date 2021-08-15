@@ -4,6 +4,10 @@
 <h5 align="center" style="margin-bottom: 1px" >I'm studying fullstack, but dig into Spring</h5>
 <h5 align="center"><link href="https://www.notion.so/sckwon770/My-Code-Wiki-d842bed9b8ac49d793c91c03e9f4418b"><img src="https://img.shields.io/badge/🗂Blog-My_CodeWiki-red?style=for-the-badge" /></link></h5>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h3 align="center"><b>🤖 Tech Stack 🤖</b></h3>
 <h5 align="center" style="margin-bottom: 1px">used mainly</h5>
@@ -27,6 +31,9 @@
 
 ---
 
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <p align="center">
