@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kwon770&fontSize=90&animation=fadeIn&fontAlignY=38&desc=fullstack%20developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kwon770&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=fullstack%20developer&descAlignY=51&descAlign=62)
 
 <h4 align="center" style="margin-bottom: 1px"><b>Software Engineering Student who likes coding</b></h4>
 <h5 align="center" style="margin-bottom: 1px" >I'm studying fullstack, but dig into Spring</h5>
@@ -8,6 +8,8 @@
 <br/>
 <br/>
 <br/>
+
+---
 
 <h3 align="center"><b>🤖 Tech Stack 🤖</b></h3>
 <h5 align="center" style="margin-bottom: 1px">used mainly</h5>
