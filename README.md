@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="center"><b>🤖 Tech Stack 🤖</b></h3>
+<h3 align="center"><b>🤖 Technical Skills 🤖</b></h3>
 <h5 align="center" style="margin-bottom: 1px">used mainly</h5>
 <p align="center">
 <img src="https://img.shields.io/badge/-C%2B%2B11-00599C?style=flat-square&t&logo=C%2B%2B&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-Java8-e74c3c?style=flat-square&t&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-SpringBoot-55efc4?style=flat-square&t&logo=Spring&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-JavaScriptES6-F7DF1E?style=flat-square&t&logo=JavaScript&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-React-74b9ff?style=flat-square&t&logo=React&logoColor=FFFFFF" />
